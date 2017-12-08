@@ -169,7 +169,7 @@ export default {
         label: 'Fish',
         value: '8.00'
       }],
-      money: null,
+      money: null, 
       showContent001: false,
       showContent002: false,
       showContent003: false,
